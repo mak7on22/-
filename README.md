@@ -5,7 +5,7 @@ using System;
  *  калькулятор
  */
 
-namespace дз_калькулятор
+namespace калькулятор
 {
     internal class Program
     {
